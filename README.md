@@ -24,7 +24,7 @@ The overall goals of this course were the following:
 > - Distributed Training (Huggingface Accelerate, ZeRO, FSDP & DeepSpeed);
 > - Evaluation (Methods & Metrics. Monitoring, Inference);
 
-More detailed information and links for the course can be found on the [course website](https://events.vsc.ac.at/event/159/).
+More detailed information and links for the course can be found on the [course website](https://events.vsc.ac.at/event/136/).
 
 <a name="certificate"></a>
 ## Certificate
