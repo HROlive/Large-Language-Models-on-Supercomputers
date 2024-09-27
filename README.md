@@ -4,6 +4,7 @@
 1. [Description](#description)
 2. [Information](#information)
 3. [Certificate](#certificate)
+4. [License](#license)
 
 <a name="descripton"></a>
 ## Description
@@ -32,3 +33,8 @@ More detailed information and links for the course can be found on the [course w
 The certificate for the workshops can be found below:
 
 - ["Large Language Models on Supercomputers" - VSC Research Center, TU Wien, and EuroCC Austria]() (Issued On: September 2024)
+
+<a name="license"></a>
+## License
+
+License: CC BY-SA 4.0 (Attribution-ShareAlike), see https://creativecommons.org/licenses/by-sa/4.0/legalcode
