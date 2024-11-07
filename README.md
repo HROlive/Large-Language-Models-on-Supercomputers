@@ -3,8 +3,7 @@
 ## Table of Contents
 1. [Description](#description)
 2. [Information](#information)
-3. [Certificate](#certificate)
-4. [License](#license)
+3. [License](#license)
 
 <a name="descripton"></a>
 ## Description
@@ -26,13 +25,6 @@ The overall goals of this course were the following:
 > - Evaluation (Methods & Metrics. Monitoring, Inference);
 
 More detailed information and links for the course can be found on the [course website](https://events.vsc.ac.at/event/136/).
-
-<a name="certificate"></a>
-## Certificate
-
-The certificate for the workshops can be found below:
-
-- ["Large Language Models on Supercomputers" - VSC Research Center, TU Wien, and EuroCC Austria]() (Issued On: September 2024)
 
 <a name="license"></a>
 ## License
